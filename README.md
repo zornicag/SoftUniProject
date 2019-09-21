@@ -1,1 +1,1 @@
-# SoftUniProject
+# SoftUniProject / Java Fundamentals
